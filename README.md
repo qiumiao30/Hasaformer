@@ -19,7 +19,7 @@ None
 # Geting Started
 To clone this repo:
 ```bash
-git clone https://github.com/qiumiao30/SLMR.git && cd Hasaformer
+git clone https://github.com/qiumiao30/Hasaformer.git && cd Hasaformer
 ```
 
 ## 1. get data
