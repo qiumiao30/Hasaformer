@@ -19,8 +19,9 @@ git clone https://github.com/qiumiao30/SLMR.git && cd Hasaformer
 
 ## 1. get data
 
-- **SWaT:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/)
-- **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)
+- **SWaT & WaDI:** [Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/)
+- **PSM:** [Dataset Download and Introduction](https://github.com/eBay/RANSynCoders/tree/main/data)
+- **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly)
 
 ## 2. Install Dependencies(Recomend Virtualenv)
 
