@@ -5,6 +5,8 @@ The implement of Hybrid Adaptive Self-Attention coupled with Differential Excita
 
 **The code will be released after the paper is received.**
 
+==========================================================
+
 
 # Introduction
 
