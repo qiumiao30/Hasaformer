@@ -1,7 +1,9 @@
 # Hasaformer
 The implement of Hybrid Adaptive Self-Attention coupled with Differential Excitation for Time Series Anomaly Detection.
 
+==========================================================
 **The code will be released after the paper is received.**
+==========================================================
 
 # Introduction
 
